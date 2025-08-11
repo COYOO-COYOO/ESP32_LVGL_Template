@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "ec85e575ec923bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "723f7a26e01ff5cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc0448958cae97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LVGL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LVGL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d91ffd975bbc18d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3775c90349325a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac0497cf3a055a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6c5a37bc7f80c5ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4935b5d853869dc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f0065164e41663e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f65184270ab792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e37ca273757a89d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arduino/02 STM32.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02 STM32 的反向链接列表"
+            }
+          },
+          {
+            "id": "49ea2e5e77c74a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arduino/02 STM32.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02 STM32 的出链列表"
+            }
+          },
+          {
+            "id": "bfb00cbc16a8b55e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "862b38c5e6efe53b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LVGL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "LVGL 的大纲"
+            }
+          },
+          {
+            "id": "e1321b53ad5e993e",
+            "type": "leaf",
+            "state": {
+              "type": "note-preview",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-importer:Open Importer": false,
+      "spreadsheets:New Spreadsheet": false,
+      "pkmer:Open Pkmer Market": false,
+      "note-to-mp:复制到公众号": false
+    }
+  },
+  "active": "4bc0448958cae97b",
+  "lastOpenFiles": [
+    "LVGL/image-20257221150359.png",
+    "LVGL/image-2025722136357.png",
+    "LVGL/image-20257215853273.png",
+    "README.md",
+    "LVGL.md",
+    "README",
+    "README/image-20257205858230.png",
+    "LVGL/image-2025720471251.png",
+    "LVGL/image-20257204555807.png",
+    "LVGL/image-20257204443665.png",
+    "LVGL/image-2025720437829.png",
+    "LVGL/image-20257203449602.png",
+    "LVGL/image-20257203349346.png",
+    "LVGL/image-20257203059885.png",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/themes/mono/lv_theme_mono.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/themes/default/lv_theme_default.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/tileview/lv_tileview.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/tabview/lv_tabview.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/win/lv_win.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/themes/basic/lv_theme_basic.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/spinner/lv_spinner.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/spinbox/lv_spinbox.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/led/lv_led.o",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/src/gpu/sdl/README.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/win.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/tileview.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/tabview.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/spinner.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/spinbox.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/span.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/msgbox.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/meter.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/list.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/led.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/keyboard.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/imgbtn.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/index.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/colorwheel.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/chart.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/calendar.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/core/table.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/extra/animimg.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/core/textarea.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/core/switch.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/core/slider.md",
+    "LVGL_Demo/lv_port_win_codeblocks-master/lvgl/docs/widgets/core/roller.md",
+    "未命名.canvas"
+  ]
+}

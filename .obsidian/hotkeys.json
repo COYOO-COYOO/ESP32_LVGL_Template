@@ -1,0 +1,25 @@
+{
+  "markdown-importer:open": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "note-to-mp:note-to-mp-preview": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ]
+}
