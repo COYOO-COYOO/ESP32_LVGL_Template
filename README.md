@@ -3,7 +3,7 @@
 - - - - -
 
 <p align="center">
-  <img src="README/image-20258111353329.png" alt="LVGL界面" width="600">
+  <img src="README/image-20258111353329.png" alt="LVGL界面" width="1080">
 </p>
 
 
