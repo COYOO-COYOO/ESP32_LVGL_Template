@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LVGL.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LVGL"
+              "title": "README"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LVGL.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LVGL 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -183,20 +183,19 @@
   },
   "active": "4bc0448958cae97b",
   "lastOpenFiles": [
+    "README",
+    "README/image-20258111353329.png",
     "LVGL/image-20257221150359.png",
     "LVGL/image-2025722136357.png",
     "LVGL/image-20257215853273.png",
     "README.md",
     "LVGL.md",
-    "README",
     "README/image-20257205858230.png",
     "LVGL/image-2025720471251.png",
     "LVGL/image-20257204555807.png",
     "LVGL/image-20257204443665.png",
     "LVGL/image-2025720437829.png",
     "LVGL/image-20257203449602.png",
-    "LVGL/image-20257203349346.png",
-    "LVGL/image-20257203059885.png",
     "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/themes/mono/lv_theme_mono.o",
     "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/themes/default/lv_theme_default.o",
     "LVGL_Demo/lv_port_win_codeblocks-master/obj/Debug/lvgl/src/extra/widgets/tileview/lv_tileview.o",
